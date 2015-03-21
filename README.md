@@ -1,4 +1,4 @@
-# Peer-to-Peer-Communication-using-Flodding
+# Peer-to-Peer-Communication-using-Flooding
 A multi-threaded flooding program
 
 Project description is explained in the ProjectDescription pdf
